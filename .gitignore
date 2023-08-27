@@ -1,0 +1,8 @@
+# ignore nix builds
+result
+
+# ignore converted images, those should be placed manually to their own locations
+png/
+
+# ignore target directory from rust
+**/target/
